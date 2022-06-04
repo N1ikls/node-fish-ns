@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mobile-neuron",
+  "private_key_id": "7f51506989b80ba98521c55c96c2a1516d7c10e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCKDKI/EwwMov+w\nAA+hgbgZFXTqtnDj/PQwUldIxxHte50h0N/4UnZpgA1TWgc/gTkma7Qt6n9/Xa50\npQMBd6HV8ikO2oZlD5HU6zn0qw3+d8zmDEEJHhfky4F4nyMz5jTKo3QWNHLxy2VP\n75ilC4GGuz7isQiMTNqW/vXjNQIbIFs375gvBxTA77/ezX4rZum8SGp/ARE2tOgZ\nvrY+3GvT6hTJDXj3hH4gtIuikTQjRLhJ27RB/ZDCExnArp11HwZJrRZlCsaEyI9d\nvGvyg50nZFX47KyM+guw7zVGVUbgJUbSvIjKqHaZ3HvBUkVUT+EkMM0fiLejTAM8\n8V1WooHTAgMBAAECggEAJYiS0lhg5cypfRY/KbfFsJg7Xhd1cR9U2xCAJ8rsLmf2\nDHwocPEmvb9xoBBxuQvu2GnfJr7DpIL5jEBTJWJ771n0XNQAR1jo2v2Ll+CsINw8\nqu14/zwd3fiQvpVx8knsX436YZEoEWKuLIIlu/X5ZQLi8aqVeuPoaLZwbzJ53JrU\nx0FOCNScXVaMUIa03Ksmltzw0v0IYde3HbzDgM7WukJf2mkQiecW5c+W68B+L+Np\n2mD8nvqPHoETQjtRLIYJmWt3DgCSU8uskQsO8kdE91Il2L4mrVrKL9CMjvajXFzm\nJNqjJ5pAhbfM3W0gxVTbRcB1KV2XIht6U18sL6dOuQKBgQC97AcBicPn0l4CaXo1\nwyzxcDg9G2X7JueaLiHyQHyCcUCAJOkELArBaHU8vR9BZfN2DQPL5ZurdX0/KtrX\nGX2yBNBtEuHyPh1Puxa3RVDlmm0biMpWkFaleIm7TuIqy6wf3ZsmPcY9WJdt5brw\nvpTW+7HJDS1t7zdWu7llbZDPeQKBgQC6FGoahrzIb1I8Py7BkQzjs6KW8fMmr610\nAEJ1MkGpRy09MRlfbJuYmi8xMdCKwJHzRZ3miWgB6uERqDdN4Ld5amx9n7fp23ne\n8RNP/LWtO9j2Ksxvqv9tVnLu22jRdREQAKJokul6LE+KeYOotkNYkKWmdyjfsWoA\nPtmRj9BMqwKBgBIST2haD4YTglaAatyKwdAHeZJ29PE89nS5RwmiETboR9bprDJ1\nbmCQ6/bnl/3FEbF984qHQpTCDTThgwlMp6U0yBBY558BQhDAIJ03v0bZtuAT2Az8\nlwIPwitMikDAOJSfpY+x+RcFQwN2BJ+7wrXiJTyYQGZhiMZ7/lwkXM8hAoGBALjV\nUlerApZtzVe+wujO9eiwJI6fIpGI61hQcbMMCqDk7JDd1oAs15mLfdj1zFom0lK9\nEg1O65sL/iiV2Oloj5bxGXbnUb3fnnzPJgnL0YKT8f0DojJBvpqSxnNwSfvUtvAY\nUTpiw7vxi8jWzuqksNymQYTK1DTue4Zm56JpIdUlAoGBAI56WbzylGk1xXiCBGLM\nY4IvYDqfmeBMMITvAbPEIFN/JqyeDI2AiKkGVCbPYaRCqBufMmku+fGL5H1y8EZG\n9NiWXiFIhB8w8qv7vOp2tFpjLlKbBckvvMJLRUVTytr3Uz+jBDq2HvYcLevL92ye\njeqd+BkQ+Y18AulvwdhDF+6G\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-roumm@mobile-neuron.iam.gserviceaccount.com",
+  "client_id": "112014674338472923107",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-roumm%40mobile-neuron.iam.gserviceaccount.com"
+}

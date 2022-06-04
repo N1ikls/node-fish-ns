@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.2.2",
+    "@tensorflow/tfjs-node": "^3.16.0",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "latest",
+    "firebase": "^9.8.1",
+    "firebase-admin": "^10.2.0",
+    "https": "^1.0.0",
+    "multer": "^1.4.4-lts.1",
+    "resize-base64": "^1.0.12",
+    "salted-md5": "^4.0.2",
+    "sharp": "^0.30.5"
+  }
+}
