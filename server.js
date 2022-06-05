@@ -1,8 +1,9 @@
 let express = require("express");
-const tf = require("@tensorflow/tfjs-node");
+const tf = require("@tensorflow/tfjs");
 let app = express();
 const bp = require("body-parser");
 const cors = require("cors");
+const PORT = process.env.PORT || 8081;
 app.use(cors());
 app.use(bp.json({ limit: "100mb" }));
 app.use(bp.urlencoded({ limit: "100mb", extended: true }));
@@ -19,11 +20,6 @@ app.post("/post", async (req, res) => {
   res.status(201).send(Array.from(predictions));
 });
 
-app.get("/get", async (req, res) => {
-  console.log(req.body);
-  res.status(201).send(1);
-});
-
 app.get("/getImage", async (req, res) => {
   const model = await tf.loadLayersModel("file://static/model/model.json");
   const image = req.body.imageBase64;
@@ -36,6 +32,6 @@ app.get("/getImage", async (req, res) => {
   console.log(Array.from(predictions).data);
   res.send(Array.from(predictions).data);
 });
-app.listen(8081, () => {
-  console.log("Server started", 8081);
+app.listen(PORT, () => {
+  console.log("Server started", PORT);
 });
